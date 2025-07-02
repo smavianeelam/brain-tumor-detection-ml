@@ -15,8 +15,8 @@ Built using TensorFlow and Keras, it achieves **99.5% accuracy** and uses Transf
 - Jupyter Notebook
 
 ## 📊 Results
-![Accuracy](results/accuracy_graph.png)  
-![Loss](results/loss_graph.png)
+![Accuracy](results/accuracy_graph.jpeg)  
+![Loss](results/loss_graph.jpeg)
 
 ## 💻 How it Works
 The system takes MRI images via a simple interface, processes them with a trained CNN model, and classifies the tumor. Results are shown to the user and recorded in a SQLite database.
