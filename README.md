@@ -27,9 +27,9 @@ The system takes MRI images via a simple interface, processes them with a traine
 - `results/` - Accuracy/loss charts
 - `documentation.pdf` - Project summary
 
-- ## 🔗 Code
+## 🔗 Code
 
-[View Code Here](main_model.py)
+[View Code Here](main_model.ipynb)
 
 ## 📬 Contact
 Smavia Neelam  
